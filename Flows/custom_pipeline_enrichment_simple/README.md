@@ -1,5 +1,5 @@
 # Data enrichment with Custom Pipeline nodes example
-![the flow view](https://github.com/DatavenueLiveObjects/Node-RED-FAQ-examples/blob/master/custom_pipeline_enrichment_simple/img/img1.png?raw=true)
+![the flow view](https://github.com/DatavenueLiveObjects/Node-RED-FAQ-examples/blob/master/Flows/custom_pipeline_enrichment_simple/img/img1.png?raw=true)
 
 ## Flow description
 

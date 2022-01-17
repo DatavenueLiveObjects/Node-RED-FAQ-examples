@@ -1,5 +1,5 @@
 # External connector out multiple simple example
-![the flow view](https://github.com/DatavenueLiveObjects/Node-RED-FAQ-examples/blob/master/x_connector_multiple_out_simple/img/img1.png?raw=true)
+![the flow view](https://github.com/DatavenueLiveObjects/Node-RED-FAQ-examples/blob/master/Flows/x_connector_multiple_out_simple/img/img1.png?raw=true)
 
 ## Flow description
 
