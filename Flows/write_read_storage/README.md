@@ -9,7 +9,7 @@ As a Node-RED SaaS subscriber, you get a private and isolated storage space with
 ### Write
 To write data to storage use `write file` node. The node appends or overwrites `msg.payload` to file. A file can be also deleted.
 
-Another way to upload data to Node-RED storage is via the Upload button on the Dashboard. In order to do that, go to your **Dashboard** and choose **Home** tab.
+Another way to upload data to Node-RED storage is via the Upload button on the Dashboard. In order to do that, go to your **Dashboard** and choose **File uploader** tab.
 
 ![upload files](https://github.com/DatavenueLiveObjects/Node-RED-FAQ-examples/blob/master/Flows/write_read_storage/img/img3.png?raw=true)
 
